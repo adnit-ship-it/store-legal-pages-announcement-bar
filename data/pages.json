@@ -118,7 +118,7 @@
     "text": "Loading..."
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "text": "Limited time offer: 20% off your first consultation!",
     "link": "/consultation",
     "backgroundColor": "#38571A",
